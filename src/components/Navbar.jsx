@@ -22,7 +22,7 @@ const Navbar = () => {
                   <span>
                       <img src={logo} alt='' width={35}/>
                   </span>
-                  <h1 className=' text-sm md:text-2xl text-white ml-2'>¿PorqueNo?<span className="ml-3">Ropa importada de marca</span></h1>
+                  <h1 className=' text-sm md:text-2xl text-white ml-2'>¿PorqueNo?<span className="text-sm ml-3">Ropa importada de marca</span></h1>
               </div>
               <nav className='hidden md:flex flex-row items-center text-white text-lg  gap-8 scroll-smooth'>
                   <Link
