@@ -61,8 +61,8 @@ const Footer = () => {
           </div>
       <div>
        <p className='text-center text-sm py-4'>
-        @¿Porqueno? 2023<br></br>
-        <span className='text-teal-500'>Web developer Luis Enrique Diaz </span>
+        @¿Porqueno? 2024<br></br>
+        <span className='text-teal-500'>Software developer Luis Enrique Diaz </span>
        </p>
       </div>
       <br></br>
